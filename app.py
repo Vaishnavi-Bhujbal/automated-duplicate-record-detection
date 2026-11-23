@@ -14,9 +14,9 @@ st.set_page_config(
     initial_sidebar_state="expanded"
 )
 
-DB = "/content/duplicate_framework.db"
-
+DB = "/tmp/duplicate_framework.db"
 # ================= CUSTOM DESIGN =================
+
 
 st.markdown("""
 <style>
